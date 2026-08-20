@@ -1,0 +1,12 @@
+{
+  "name": "BrowserMac — a computer in your browser",
+  "short_name": "BrowserMac",
+  "description": "A persistent Mac-style desktop environment that runs entirely in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101216",
+  "theme_color": "#101216",
+  "icons": [
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
